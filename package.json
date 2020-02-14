@@ -1,0 +1,54 @@
+{
+  "name": "bank-of-akat",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://akatquas.github.io/bank-of-akat",
+  "scripts": {
+    "prestart": "tailwind build ./src/index.tailwind.css -c ./tailwind.config.js -o ./src/index.css",
+    "start": "react-scripts start",
+    "prebuild": "tailwind build ./src/index.tailwind.css -c ./tailwind.config.js -o ./src/index.css",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.27",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "file-saver": "^2.0.2",
+    "gh-pages": "^2.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.1",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.1",
+    "node-sass": "^4.13.1",
+    "tailwindcss": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkatQuas/bank-of-akat.git"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
