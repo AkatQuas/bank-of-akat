@@ -40,9 +40,8 @@ const _Info = () => {
               <Input
                 value={state.amount}
                 onChange={onAmountChange}
-                inputMode="numeric"
                 placeholder="input the amount"
-                pattern="^\d*$"
+                type="number"
                 label="Amount"
               />
             </Fragment>
