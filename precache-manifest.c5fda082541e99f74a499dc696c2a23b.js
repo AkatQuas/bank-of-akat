@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b9faddc184df2d2dd13d65b7f5f920e",
+    "revision": "50aa9523658e9ee9e4dbca51f29565c9",
     "url": "/bank-of-akat/index.html"
   },
   {
-    "revision": "0db30494c0b8bf80bafd",
+    "revision": "0961da5954257cf16469",
     "url": "/bank-of-akat/static/css/main.69be5e68.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bank-of-akat/static/js/2.13d7d641.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0db30494c0b8bf80bafd",
-    "url": "/bank-of-akat/static/js/main.cc33b0c1.chunk.js"
+    "revision": "0961da5954257cf16469",
+    "url": "/bank-of-akat/static/js/main.b473a788.chunk.js"
   },
   {
     "revision": "af509bd6d8a8c9c153c1",
