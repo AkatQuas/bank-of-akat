@@ -10,6 +10,7 @@ const _HeaderBar = () => (
         flex h-10
         items-center
         bg-white
+        z-50
       `}
     >
       <img src={logoImg} alt="Bank of Akat" className="w-8 h-8 mx-5" />
