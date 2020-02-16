@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bank-of-akat/static/css/main.69be5e68.chunk.css",
-    "main.js": "/bank-of-akat/static/js/main.a29e386c.chunk.js",
-    "main.js.map": "/bank-of-akat/static/js/main.a29e386c.chunk.js.map",
+    "main.js": "/bank-of-akat/static/js/main.cc33b0c1.chunk.js",
+    "main.js.map": "/bank-of-akat/static/js/main.cc33b0c1.chunk.js.map",
     "runtime-main.js": "/bank-of-akat/static/js/runtime-main.35c58e10.js",
     "runtime-main.js.map": "/bank-of-akat/static/js/runtime-main.35c58e10.js.map",
     "static/js/2.13d7d641.chunk.js": "/bank-of-akat/static/js/2.13d7d641.chunk.js",
     "static/js/2.13d7d641.chunk.js.map": "/bank-of-akat/static/js/2.13d7d641.chunk.js.map",
     "index.html": "/bank-of-akat/index.html",
-    "precache-manifest.23fad010b5169065531d854f598c1d43.js": "/bank-of-akat/precache-manifest.23fad010b5169065531d854f598c1d43.js",
+    "precache-manifest.66a1ba4eb572e553eebe08e5bda09324.js": "/bank-of-akat/precache-manifest.66a1ba4eb572e553eebe08e5bda09324.js",
     "service-worker.js": "/bank-of-akat/service-worker.js",
     "static/css/main.69be5e68.chunk.css.map": "/bank-of-akat/static/css/main.69be5e68.chunk.css.map",
     "static/js/2.13d7d641.chunk.js.LICENSE.txt": "/bank-of-akat/static/js/2.13d7d641.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.35c58e10.js",
     "static/js/2.13d7d641.chunk.js",
     "static/css/main.69be5e68.chunk.css",
-    "static/js/main.a29e386c.chunk.js"
+    "static/js/main.cc33b0c1.chunk.js"
   ]
 }
